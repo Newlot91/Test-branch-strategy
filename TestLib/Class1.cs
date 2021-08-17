@@ -2,8 +2,12 @@
 
 namespace TestLib
 {
-    public class Class1
+    public class snake
     {
-
+        public static snake SnakeMove()
+        {
+            snake x;
+            return x;
+        }
     }
 }
